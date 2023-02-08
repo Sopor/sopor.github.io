@@ -1,0 +1,54 @@
+#rizsideBar2{
+    cursor: pointer;
+     z-index:99999;
+    position: fixed;
+    width: 44px;
+    height: 285px;
+    top: 200px;
+    right:-7px;
+    background-image:url(../content/background.gif);
+    background-position:top left;
+    background-repeat:repeat-y;
+}
+ #rizsideBar2 form{
+    z-index:99999;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+}
+ #rizsideBar2 a{
+    background:none;
+     z-index:99999;
+    color:#ccc
+}
+ #rizsideBar2 fieldset{
+    z-index:99999;
+    padding:5px;
+    margin:10px 20px;
+    border:none;
+}
+ #rizsideBar2 ul{
+    z-index:99999;
+    margin:0px 20px;
+}
+ #rizsideBar2 label{
+    z-index:99999;
+    color: #fff;
+}
+ #sideBarTab2{
+    z-index:99999;
+    float:left;
+    height:123px;
+    width:37px;
+}
+ #sideBarTab2 img{
+    z-index:99999;
+    border:0px solid #FFFFFF;
+}
+ #sideBarContents{
+    z-index:99999;
+    overflow:hidden !important;
+}
+ #sideBarContentsInner{
+    z-index:99999;
+    width:250px;
+}
