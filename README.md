@@ -1,3 +1,3 @@
-# Sopor.github.io
+# sopor.github.io
 
 This is a WIP
