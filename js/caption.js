@@ -17,24 +17,3 @@ var JCaption=new Class({initialize:function(a){this.selector=a;$$(a).each(functi
 ""&&c.appendChild(d);c.className=this.selector.replace(".","_");c.className=c.className+" "+b;c.setAttribute("style","float:"+b);c.style.width=e+"px"}});
 
 }
-/*
-     FILE ARCHIVED ON 05:38:45 May 30, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:41:33 Feb 16, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 61.62
-  exclusion.robots: 0.279
-  exclusion.robots.policy: 0.268
-  RedisCDXSource: 0.641
-  esindex: 0.012
-  LoadShardBlock: 38.793 (3)
-  PetaboxLoader3.datanode: 48.796 (4)
-  CDXLines.iter: 18.036 (3)
-  load_resource: 321.467
-  PetaboxLoader3.resolve: 293.665
-*/

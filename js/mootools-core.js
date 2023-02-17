@@ -539,24 +539,3 @@ return this;},remote:function(){return Swiff.remote.apply(Swiff,[this.toElement(
 return eval(rs);};})();
 
 }
-/*
-     FILE ARCHIVED ON 05:38:45 May 30, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:33:18 Feb 16, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 1126.788
-  exclusion.robots: 0.108
-  exclusion.robots.policy: 0.097
-  cdx.remote: 0.09
-  esindex: 0.011
-  LoadShardBlock: 734.595 (3)
-  PetaboxLoader3.datanode: 783.529 (5)
-  CDXLines.iter: 15.632 (3)
-  load_resource: 211.756 (2)
-  PetaboxLoader3.resolve: 106.18 (2)
-*/

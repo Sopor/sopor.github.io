@@ -839,24 +839,3 @@ Form.Validator.add("validate-currency-yuan",{errorMsg:function(){return Form.Val
 }});
 
 }
-/*
-     FILE ARCHIVED ON 05:38:45 May 30, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:39:11 Feb 16, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 240.754
-  exclusion.robots: 0.241
-  exclusion.robots.policy: 0.234
-  cdx.remote: 0.073
-  esindex: 0.01
-  LoadShardBlock: 121.193 (3)
-  PetaboxLoader3.datanode: 194.299 (5)
-  CDXLines.iter: 15.118 (3)
-  load_resource: 292.403 (2)
-  PetaboxLoader3.resolve: 111.327 (2)
-*/

@@ -28,24 +28,3 @@ function tableOrdering(a,b,c){var d=document.adminForm;d.filter_order.value=a;d.
 
 
 }
-/*
-     FILE ARCHIVED ON 05:38:45 May 30, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:41:32 Feb 16, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 68.839
-  exclusion.robots: 0.202
-  exclusion.robots.policy: 0.193
-  RedisCDXSource: 0.7
-  esindex: 0.011
-  LoadShardBlock: 46.925 (3)
-  PetaboxLoader3.datanode: 391.384 (5)
-  CDXLines.iter: 17.025 (3)
-  load_resource: 568.095 (2)
-  PetaboxLoader3.resolve: 154.243 (2)
-*/
