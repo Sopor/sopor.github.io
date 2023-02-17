@@ -39,6 +39,17 @@
             <a href="index.html">Check our home page</a>
         </p>
     </main>
-    
+    <script>
+        function redirect () {
+           var interval = setInterval(myURL, 5000);
+           var result = document.getElementById("result");
+           result.innerHTML = "<b> The page will redirect after delay of 5 seconds setInterval() method.";
+        }
+  
+        function myURL() {
+           document.location.href = 'https://www.tutorialspoint.com/index.htm';
+           clearInterval(interval);
+        }
+     </script>    
 </body>
 </html>
